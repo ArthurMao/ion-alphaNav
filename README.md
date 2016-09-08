@@ -1,6 +1,6 @@
 # ion-alphaNav
 
-##Alphabetical navigate for Ionic (Ionic 字母表导航）
+##Ionic 字母表导航 (Alphabetical navigate for Ionic)
 
 ``支持滑动快速定位``
 
